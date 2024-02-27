@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 I'm deeply enthusiastic about exploring and mastering new technologies, constantly striving to broaden my skill set and deepen my understanding of cutting-edge tech stacks.<br>🌱 Currently, I'm focused on honing my skills in [mention any specific areas of interest or projects you're currently working on].<br>🔭 If you're interested in collaborating, sharing ideas, or simply geeking out over the latest tech trends, feel free to connect with me! Let's learn and innovate together.</p>
+<p align="left">🚀 I'm deeply enthusiastic about exploring and mastering new technologies, constantly striving to broaden my skill set and deepen my understanding of cutting-edge tech stacks.<br>🌱 Currently, I'm focused on honing my skills in DSA, Full Stack, and Python.<br>🔭 If you're interested in collaborating, sharing ideas, or simply geeking out over the latest tech trends, feel free to connect with me! Let's learn and innovate together.</p>
 
 ###
 
